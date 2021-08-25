@@ -2,9 +2,9 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, Java and Python.
 - 🌱 I’m currently learning Java and (HTML, CSS, JavaScript).
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me sergioadauto@hotmail.com or (facebook <a
-                href="https://www.facebook.com/sergioadauto1/" rel="external" title="Facebook"
-                target="_blank">@sergioadauto1</a> )
+- 📫 How to reach me sergioadauto@hotmail.com or (LinkedIn <a
+                href="https://www.linkedin.com/in/s%C3%A9rgio-carvalho-a89a97a8/" rel="external" target="_blank"
+                title="LinkdIn">/sergio-carvalho</a>)
 
 <!---
 SergioAdauto/SergioAdauto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
