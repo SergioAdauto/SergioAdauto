@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SergioAdauto
-- 👀 I’m interested in HTML, CSS, JavaScript, Java and Python.
-- 🌱 I’m currently learning Java and (HTML, CSS, JavaScript).
-- 💞️ I’m looking to collaborate on web development.
+- 👀 I’m interested in Big Data, with: PySpark, Scala, Java, Shell Script e ecosystem Hadoop (Hive, MapReduce, 
+HBase e Kafka), SQL (SQL Server, Postgres), Python (Pandas, Numpy, Matplotlib).
+- 💞️ I'm looking to collaborate on data analytics and data engineer.
 - 📫 How to reach me sergioadauto@hotmail.com or (LinkedIn <a
-                href="https://www.linkedin.com/in/s%C3%A9rgio-carvalho-a89a97a8/" rel="external" target="_blank"
+                href="https://www.linkedin.com/in/sergio-adauto-carvalho/" rel="external" target="_blank"
                 title="LinkdeIn">/sergio-carvalho</a>)
 
 <!---
