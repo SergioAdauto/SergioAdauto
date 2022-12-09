@@ -1,6 +1,6 @@
 
 <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
-<h4>👋 Olá, Eu sou Sergio Carvalho</h4>
+<h4>👋 Olá, Eu sou Sergio Adauto</h4>
 <h5>💞️ Tenho muito interesse na área de Dados, especificamente em Big Data.</h5>
 <div style="display:inline_block" align="center">
   <a href="https://github.com/SergioAdauto">
