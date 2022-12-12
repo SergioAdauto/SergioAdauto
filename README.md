@@ -1,4 +1,5 @@
 
+
 <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
 <h4>👋 Olá, Eu sou Sergio Adauto</h4>
 <h5> 📚 Economista formado pela Universidade Federal de Campina Grande, atualmente graduando em Engenharia da Computação pelo Instituto Federal da Paraíba. Venho aperfeiçoando meus conhecimentos na área de Dados, especificamente em Big Data com foco em tecnologias como: Python (Pandas, PySpark, Numpy, Seaborn, Matplotlib), Hadoop Ecosystem (Yarn, Hive, SQOOP), SQL (SQL Server, PostgreSQL), e MicrosoftPower BI.</h5>
@@ -8,6 +9,7 @@
   <img height="160em" width="400em" font-size="19px" src="https://github-readme-stats.vercel.app/api?username=SergioAdauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdauto&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+  <hr>
   <h5>💞️ Tenho muito interesse na área de Dados, especificamente em Big Data.</h5>
   <h5>✍️ Tecnologias que tenho conhecimento:</h5>
   <div style="display: inline_block" align="center"><br>
